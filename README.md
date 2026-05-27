@@ -2,6 +2,26 @@
 
 AI-based clinical trial design optimization platform for Phase II Type 2 Diabetes trials.
 
+## Research Poster
+
+View the project poster here:
+
+[Research Poster](./docs/research-poster.pdf)
+
+## Team
+
+**Korean Minjok Leadership Academy, 29th Wavers**
+
+### Development
+
+- Minjoo Lee
+- Haeun Jin
+
+### Economic Research
+
+- Gaeun Kim
+- Sooin Lee
+
 ## Overview
 
 **clinical-trial-optimization** is a web-based research prototype designed to explore how artificial intelligence can support more efficient clinical trial design.
@@ -116,25 +136,6 @@ The website consists of the following main sections:
 - **Economics**: Economic impact and cost-saving simulation
 - **Research**: Explanation of the research process and methodology
 - **About**: Project summary and background information
-
-## Project Documents
-
-The following documents provide additional details about the research background, methodology, results, and presentation materials.
-
-- [Research Poster](./docs/research-poster.pdf)
-
-## Suggested Repository Structure
-
-```text
-clinical-trial-optimization/
-├── README.md
-├── docs/
-│   ├── final-report.pdf
-│   └── research-poster.pdf
-├── src/
-├── public/
-└── package.json
-```
 
 ## Tech Stack
 
