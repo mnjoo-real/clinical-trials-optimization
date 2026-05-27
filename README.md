@@ -121,7 +121,6 @@ The website consists of the following main sections:
 
 The following documents provide additional details about the research background, methodology, results, and presentation materials.
 
-- [Final Report](./docs/final-report.pdf)
 - [Research Poster](./docs/research-poster.pdf)
 
 ## Suggested Repository Structure
