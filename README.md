@@ -10,7 +10,7 @@ View the project poster here:
 
 ## Team
 
-**Korean Minjok Leadership Academy, 29th wavers**
+**Korean Minjok Leadership Academy, 29th Cohort**
 
 ### Development
 
